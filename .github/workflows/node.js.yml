@@ -28,3 +28,8 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test
+npm install
+./build.sh'
+cd electronapp
+npm install
+npm start
