@@ -36,4 +36,4 @@ npm start
 
 *Original Author: [vik-13](https://github.com/vik-13)*
 
-*Contributor: [Yutyo](https://github.com/yutyo)*
+*Contributor: [Yutyo](https://github.com/yutyo),[K](https://github.com/harikrisshna)*
